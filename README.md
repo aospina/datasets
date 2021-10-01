@@ -59,7 +59,7 @@ Datasets utilizados para Big Data
 		  - "7077:7077"   # Spark Master
 		tty: true
 		stdin_open: true
-	```
+   ```
  
 ## Ejecutar el docker-compose:
 
